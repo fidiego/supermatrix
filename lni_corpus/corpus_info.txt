@@ -1,0 +1,4 @@
+corpus_name: lni_corpus
+num_documents: 504
+num_types: 20536
+num_tokens: 415147

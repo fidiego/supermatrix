@@ -1,0 +1,4 @@
+corpus_name: Fox_corpus
+num_documents: 347
+num_types: 33370
+num_tokens: 235605

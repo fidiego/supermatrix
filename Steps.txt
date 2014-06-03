@@ -1,0 +1,29 @@
+1. Corpuse pre-processing
+
+2. Matrix Construction 
+ - tc (ww)
+ - td (wd)
+
+3. Matrix abstraction/reduction.
+ 
+   reducing tcMatrix n.b.
+    - d flag option to collapse over direction
+    i.e. ...,-3,-2,-1.+1,+2,+3,...
+    Collapse treats -n and +n the same
+    Cerebro:Supermatrix fidiego$ python bin_v0.03/reduce_tcMatrix_svd.py -c childes_corpus/tcMatrix/ -o tcSVD -D 0 C [1]
+
+    PMI -> POSPMI
+
+4. Similarity computation.
+
+5. Output
+output target pair associations creats a matrix of pairs associations
+ - immigrant invastion
+ - immigrant flood
+ - immigrant pollution
+ - immigrant ...
+
+ Homework 
+  - output target sim neighbors outpust n-nearest neighbors
+
+    I. 

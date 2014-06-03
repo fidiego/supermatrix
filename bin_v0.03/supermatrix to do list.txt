@@ -1,0 +1,4 @@
+1) add inclusion and exlcusion functionality to create_tcMatrix and create_tDmatrix
+2) make import targets, contexts, and documents tell you what proportion was imported given your inclusion and exclusion lists
+3) change as much scipy to numpy as possible
+4) remove numpy everywhere matrix math is not being done; benchmark differences

@@ -1,0 +1,6 @@
+num_documents: 504
+num_targets: 1095
+num_context: 20536
+window_size: 9
+datetime_started: 2014-5-5_9:35:12
+datetime_finished: 2014-5-5_9:41:24
